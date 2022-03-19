@@ -11,6 +11,4 @@ Esta es la primer versión de este proyecto que a futuro le podré crear más ut
 
 Espero este mini proyecto le sirva a quien le pueda interar. Gracias por tu tiempo
 
-![Alt text](https://user-images.githubusercontent.com/98057946/159108343-2b45f2b8-f230-48b6-8246-a9379ce19eb9.pngraw=true "Title")
-
-https://user-images.githubusercontent.com/98057946/159108343-2b45f2b8-f230-48b6-8246-a9379ce19eb9.png
+![image](https://user-images.githubusercontent.com/98057946/159108343-2b45f2b8-f230-48b6-8246-a9379ce19eb9.png)

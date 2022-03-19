@@ -30,6 +30,8 @@ while True:
     else:
         break
 print("===============================")
+
+#Mezclo los items de la lista
 shuffle(personas)
 
 personasxGrupo = int(len(personas)/cantGrupos)

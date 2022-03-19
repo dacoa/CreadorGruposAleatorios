@@ -10,3 +10,7 @@ Es un problema bastante fácil de resolver, pero como me encuentro aprendiendo P
 Esta es la primer versión de este proyecto que a futuro le podré crear más utilidades en el día a día, como por ejemplo definir la cantidad min y max de personas por equipos, etc etc
 
 Espero este mini proyecto le sirva a quien le pueda interar. Gracias por tu tiempo
+
+![Alt text](https://user-images.githubusercontent.com/98057946/159108343-2b45f2b8-f230-48b6-8246-a9379ce19eb9.pngraw=true "Title")
+
+https://user-images.githubusercontent.com/98057946/159108343-2b45f2b8-f230-48b6-8246-a9379ce19eb9.png
